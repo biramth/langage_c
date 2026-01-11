@@ -1,0 +1,9 @@
+# Exécutables Windows
+*.exe
+
+# Dossiers VS Code
+.vscode/
+
+# Fichiers temporaires
+*.o
+*.out

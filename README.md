@@ -1,1 +1,1 @@
-#h1 langage_c
+h1 langage_c
